@@ -76,5 +76,5 @@ LCS: GTAB
 ---
 Deliverables:
 
-Source code files for all programs (e.g. `rod_cutting.py`,)
+Source code files for all programs (e.g. `rod_cutting.py`,`matrix_chain_multiplication.py`, `longest_common_subsequence.py`)
 Brief analysis/conclusion ( write it as a comment)
