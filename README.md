@@ -76,5 +76,6 @@ LCS: GTAB
 ---
 Deliverables:
 
-Source code files for all programs (e.g. `rod_cutting.py`,`matrix_chain_multiplication.py`, `longest_common_subsequence.py`)
-Brief analysis/conclusion ( write it as a comment)
+- Source code files for all programs (e.g. `rod_cutting.py`,`matrix_chain_multiplication.py`, `longest_common_subsequence.py`)
+- markdown file with all the screen shots and explanation. In it mention the time complexity for each of the algorithm as well. 
+- Brief analysis/conclusion ( write it as a comment)
